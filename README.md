@@ -17,3 +17,5 @@ Through this project, I focused on understanding how code interacts with a user 
 ## 🚀 How to run
 1. Open the `calculator.py` file in any Python environment.
 2. Run the script and start calculating!
+
+[Calculator Screenshot](app.png)
